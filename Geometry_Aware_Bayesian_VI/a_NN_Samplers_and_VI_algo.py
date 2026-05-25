@@ -1,6 +1,7 @@
 #ALL THE LOVELY FUNCTIONS REWRITTEN IN CLASSES:
-from KL_functions import *
-from MAP import *
+from b_KL_functions import *
+from c_MAP import *
+from d_plot_functions import *
 
 import numpy as np
 import matplotlib.pyplot as plt
